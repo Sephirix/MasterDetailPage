@@ -1,0 +1,2 @@
+# MasterDetailPage
+template project
